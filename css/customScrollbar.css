@@ -1,0 +1,22 @@
+/* Fundo que corre */
+::-webkit-scrollbar-track {
+    background-color: #474559;
+}
+/* Fundo que corre */
+
+::-webkit-scrollbar {
+    width: 6px;
+    background: #474559;
+}
+
+/* Linha que desce */
+::-webkit-scrollbar-thumb {
+    background: #006494;
+    /*border-radius: 15px;*/
+}
+/* Linha que desce*/
+
+
+body {
+    overflow-x: hidden
+}

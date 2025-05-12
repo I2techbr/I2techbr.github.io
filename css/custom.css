@@ -1,0 +1,118 @@
+@media (max-width: 768px) {
+    .texto-principal-1 {
+        font-size: 32px !important;
+        margin-top: -20px !important;
+    }
+
+    .tp-linesplit {
+        line-height: 38px !important;
+    }
+
+    .texto-principal-2 {
+        font-size: 30px !important;
+        top: -30px !important;
+    }
+
+    .subtexto-principal-1 {
+        font-size: 18px !important;
+        line-height: 18px !important;
+        min-width: 400px !important;
+        max-width: 400px !important;
+        padding: 30px 20px 0px 20px !important;
+    }
+
+    .btn-descubra-1 a {
+        font-size: 12px !important;
+        padding: 8px 15px !important;
+        top: 104px !important;
+    }
+
+    .tp-parallax-wrap {
+        top: 64px !important;
+    }
+
+    .tp-mask-wrap {
+        overflow: visible !important;
+    }
+
+    .navbar-header {
+        margin-bottom: -80px;
+    }
+
+    ul.navbar-nav {
+        margin-top: 80px;
+    }
+
+    .secondary-menu {
+        display: none;
+    }
+
+    .widget-right-side {
+        width: 100%;
+        text-align: center;
+    }
+
+    .top-header-widget {
+        padding: 0px 0px 6px 9px;
+    }
+
+    ul.navbar-nav > li > a {
+        line-height: 0px;
+    }
+
+    .navbar-collapse.collapse {
+        width: 134px;
+    }
+
+    .navbar-collapse.in {
+        overflow-y: visible;
+    }
+
+    .gfort-section {
+        padding: 28px 0 50px;
+    }
+
+    .gfort-tabs-vertical.gfort-tabs .nav-tabs > li > a {
+        padding: 9px 9px;
+        font-size: 14px;
+    }
+}
+
+/*Animações Globais*/
+.revealAnimation1, .revealAnimation2, .revealAnimation3, .revealAnimation4 {
+    visibility: hidden;
+}
+
+/*Animações de Clientes*/
+.revealAnimationCliente1, .revealAnimationCliente2, .revealAnimationCliente3, .revealAnimationCliente4,
+.revealAnimationCliente5, .revealAnimationCliente6, .revealAnimationCliente7 {
+    visibility: hidden;
+}
+
+
+
+.logo-div .logo1 {
+    display: flex;
+}
+
+.logo-div .logo2 {
+    display: none;
+}
+
+.logo-div img {
+    margin: 0px 25px 0px 25px;
+}
+
+@media (max-width: 768px) {
+    .logo-div img {
+        margin: 0px;
+    }
+
+    .logo-div .logo1 {
+        display: none;
+    }
+
+    .logo-div .logo2 {
+        display: flex;
+    }
+}
